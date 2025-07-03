@@ -24,6 +24,8 @@ Today i learn
 ## Spring Boot
 [SpringBoot 프로젝트 생성](https://github.com/ljh3648/TIL/blob/main/SpringBoot/SpringBoot-initalizr.md) - 2025/06/22
 
+[외부환경속성 분리](https://github.com/ljh3648/TIL/blob/main/SpringBoot/application-properties.md) - 2025/07/03
+
 ## Node
 [NVM-설치방법](https://github.com/ljh3648/TIL/blob/main/Node/NVM-install.md) - 2025/06/22
 
